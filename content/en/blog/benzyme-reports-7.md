@@ -1,0 +1,28 @@
+---
+publishDate: '2020-11-20'
+author: thetwopct
+title: 'Robust T Cell Immunity in Convalescent Individuals with Asymptomatic or Mild COVID-19'
+description: 'Robust T Cell Immunity in Convalescent Individuals with Asymptomatic or Mild COVID-19'
+excerpt: 'The clinical symptoms of COVID-19 can be quite different between individuals; the mortality is'
+tags: [covid-19, immunity, therapy, biomedical]
+---
+
+### Sekine, Andre Perez, Olga Rivera, Kristoffer, Jean-Baptiste, Annika Olsson, Sian, Habiba Kamal, Gordana Bogdanovic , Sandra Muschiol, David, Tobias Kammann, Johanna, Tiphaine Parrot, Elin Folkesson (2020)
+
+Summarised by: [Liping Wang](https://www.researchgate.net/profile/Liping_Wang60)
+
+![author info](https://miro.medium.com/v2/resize:fit:720/format:webp/1*leQ03ZrHnujN6RzsbgD2NA.png)
+
+>Original article: https://www.sciencedirect.com/science/article/pii/S0092867420310084?via%3Dihub
+
+The clinical symptoms of COVID-19 can be quite different between individuals; the mortality is high among aging individuals while most people are prone to be asymptomatic or develop mild symptoms. The question then arises whether people with mild symptoms or in a convalescent phase can develop robust immunity against SARS-CoV-2 to help prevent re-infection. Memory T cells play important roles in creating helper and cytotoxic T cells to initiate a rapid and efficient immune response to the re-exposed antigen. As the interrogation of T cell immune response is associated with the clinical course and serostatus of SARS-CoV-2 infection, it is critical in understanding the immune response for SARS-CoV-2 and to develop potential antiviral therapy. Here, the authors demonstrate that the SARS-CoV-2-specific memory T cells are long-lasting, broad, and polyfunctional in the convalescent phase and are expected to prevent the recurrence of COVID-19.
+
+In this study, the function and phenotype of SARS-CoV-2-specific T cell responses were characterized for different individuals, including healthy blood donors (BD), convalescent individuals (MC) and patients with acute moderate (AM) or severe COVID-19 (AS). A clear segregation was observed between memory T cells from BD, MC, AM, AS (Fig. 1B from Sekine et al, 2020) and notable topographical clusters were indicated in each group (Fig. 1D from Sekine et al, 2020). Both Memory CD8+ T cells and memory CD4+ T cells from AM or AS expressed numerous genes strongly related to activation and cell cycle modulation (Fig. 1D, 1E and Fig. S2B from Sekine et al, 2020). CD38high CD8+ T cells that are specific for CMV and EBV were in higher frequencies in AM and AS compared to MC and BD, which indicates that some of these isolated CD8+ T cells may not be specific for SARS-CoV-2. However, CD8+ T cells with Ki-67 expression displayed a CCR7− CD27+ CD28+ CD45RA−CD127− effector memory CD8+ T cell phenotype in AM and AS (Fig. S3D from Sekine et al, 2020). They also demonstrated robust expression of SARS-CoV-2-specific activation and cell cycle phenotype genes in these T cells in response to SARS-CoV-2 S, M, N proteins (Fig. 2C, D from Sekine et al, 2020). Time from exposure correlated with different SARS-CoV-2-specific CD8+ T cell populations which were characterized by immune activation/cytotoxic molecules and inhibitory receptors at the early stage or memory phenotype at the convalescent stage (Fig. 2F,G from Sekine et al, 2020).
+
+The functional capability of SARS-CoV-2-specific memory CD4+ and CD8+ T cells in convalescent individuals were assessed by stimulating PBMCs with SARS-CoV-2 S, M, and NP proteins. CD4+ T cells mainly expressed IFN-γ, IL-2, and TNF while CD8+ T cells expressed IFN-γ and CD107a. Spike-specific CD4+ T cells tended to skew to cTfh which may correlate with antibody production, while N-specific CD4+ T cells were prone to skew toward Th1 (Fig. 3D from Sekine et al, 2020). Anamnestic responses were detected in most convalescent individuals and exposed people (Fig. 4A, B from Sekine et al, 2020). Interestingly, SARS-CoV-2 specific T cell responses were also detected in seronegative/unexposed individuals, (Fig. 4F from Sekine et al, 2020) which illuminates that serological analysis may underestimate the population-level immunity.
+
+In summary, this study serves as a reference on the function and distinct features of memory T cells in different individuals and different phases of disease progression, eg. acute phase SARS-CoV-2-specific T cells display an activated cytotoxic phenotype. Importantly, PBMCs from different individuals were stimulated by viral proteins to further investigate the function of memory T cells, providing a broader view. Another important indication is that SARS-CoV-2-specific T cell responses can be detected in seronegative individuals; however, further investigation is needed to determine the protective function of these memory T cells in COVID-19 in the absence of specific antibodies. However, it is important to address the cause behind COVID-19 re-infections in the context of anamnestic responses and recall capability of T memory cells reported in this study. Nevertheless, the conclusion drawn here that SARS-CoV-2 elicits robust and polyfunctional memory T cells responses is only based on in vitro study; it may be another story in vivo. The answer to the question whether the memory T cells elicit a rapid and robust response if the convalescent patients are re-exposed to SARS-CoV-2 is yet to be demonstrated in a study.
+
+[[Read the article on our Medium]](https://benzymeventures.medium.com/robust-t-cell-immunity-in-convalescent-individuals-with-asymptomatic-or-mild-covid-19-105e3a1f9e62)
+
+[[Back to the top]](#top)

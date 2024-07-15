@@ -1,0 +1,63 @@
+en:
+  languageName: English
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "Copyright &copy; {{< current_year >}} Benzyme Ventures. All Rights Reserved. All content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), unless otherwise noted. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/trademark-usage) page. Linux is a registered trademark of Linus Torvalds. [Privacy Policy](https://www.linuxfoundation.org/privacy) and [Terms of Use](https://www.linuxfoundation.org/terms). [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  title: "Benzyme Ventures"
+  params:
+    description: "Site Description"
+    ### accessibility ###
+    accessibility:
+      skip_text: "Skip to content"
+      help_text: "Accessibility Statement"
+      help_url: "/example-page/"
+    ### calls to action ###
+    main_cta:
+      text: "Join"
+      link: "https://docs.google.com/forms/d/e/1FAIpQLScfV4A-YO48vcQ6BdioxCFUbF5b4Ifjt77atFQdNw7UkWZf_w/viewform"
+    footer_cta:
+      text: "Join us"
+      link: "/example-page/"
+    github_edit: "Edit this page on GitHub"
+  ### example menu showing children ###
+  menu:
+    main:
+    - identifier: "about"
+      name: "About"
+      weight: 1
+    - identifier: "about-us"
+      name: "About us"
+      url: "/about-us"
+      weight: 1
+      parent: "about"
+    - identifier: "archived-programs"
+      name: "Archived Programs"
+      weight: 1
+    - identifier: "student-ambassadors"
+      name: "Student Ambassadors"
+      url: "/example-page/"
+      weight: 1
+      post: "Our student ambassador program."
+      parent: "archived-programs"
+    - identifier: "biopieces"
+      name: "Biopieces"
+      url: "/example-page/"
+      weight: 2
+      post: "Conversations on biology for prospective students in the biosphere."
+      parent: "archived-programs"
+    - identifier: "reports"
+      name: "Reports"
+      url: "/example-page/"
+      weight: 3
+      post: "The latest scientific research and news."
+      parent: "archived-programs"
+    - identifier: "r-guild"
+      name: "R-Guild"
+      url: "/example-page/"
+      weight: 4
+      post: "Mentorship program for researchers by researchers."
+      parent: "archived-programs"
+    - identifier: "blog"
+      name: "Blog"
+      url: "/blog/"
+      weight: 5
